@@ -1,13 +1,13 @@
 ```@meta
-CurrentModule = CartesianProducts
+CurrentModule = ImmersedSplines
 ```
-# CartesianProducts
+# ImmersedSplines
 
 ## Index
 ```@index
 ```
 
 ```@autodocs
-Modules = [CartesianProducts]
+Modules = [ImmersedSplines]
 Order   = [:function, :type]
 ```
